@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayankush
-- 👀 I’m interested in Web Development, Angular, Typescript
+- 👀 I’m interested in Web Development, Angular, Typescript, Python
 - 🌱 I’m currently learning Leaflet
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ankush.ray1@gmail.com
